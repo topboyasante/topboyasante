@@ -1,4 +1,4 @@
-### Hi there, I'm Nana Kwasi! 👋 
+# Hi there, I'm Nana Kwasi! 👋 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/topboyasante?style=for-the-badge)](https://twitter.com/topboyasante)
 
