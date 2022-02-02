@@ -1,6 +1,6 @@
 ### Hi there, I'm Nana Kwasi! 👋 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/topboyasante)
+[![Twitter Follow]![Twitter Follow](https://img.shields.io/twitter/follow/topboyasante?style=for-the-badge)](https://twitter.com/topboyasante)
 
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
