@@ -3,7 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/topboyasante?style=for-the-badge)](https://twitter.com/topboyasante)
 
 
--  I’m currently learning JavaScript!
+-  I’m currently learning PHP!
 -  I’m looking to collaborate with other content creators
 -  2022 : Contribute more to Open Source projects
 
@@ -36,5 +36,5 @@
 
 
 [twitter]: https://twitter.com/topboyasante
-[instagram]: https://instagram.com/worksbyasante
+[instagram]: https://instagram.com/topboyasamte_
 [linkedin]:https://www.linkedin.com/in/nana-kwasi-asante-abb32a226/
